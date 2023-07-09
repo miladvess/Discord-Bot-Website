@@ -23,13 +23,13 @@ export default function Index() {
                   "flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " 
                 }
               >
-          Invite Astra
+          Invite BotStory
               </a>
             </Link>
   <div className="py-10"></div>
   <Link href={"https://bit.ly/3LYzaDe"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Vote Astra</a>
+Vote BotStory</a>
   </Link>
         </div>
 
@@ -48,7 +48,7 @@ Vote Astra</a>
             <p className="text-white text-4xl font-bold" dangerouslySetInnerHTML={{ __html:"BotStory" }} />
             <p className="text-white text-md font-medium text-gray-500/75" dangerouslySetInnerHTML={{ __html: "How about creating the best environment to relax yourself with your own emotions?" }}/>
             <a href="https://bit.ly/3PHDjyC" className={"mt-10 flex items-center px-4 justify-center gap-x-2 shadow-lg shadow-amber-600/20 cursor-pointer rounded-xl py-4 font-medium bg-gradient-to-r from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white"}>
-              <i className="fab fa-discord mr-2" />Invite Astra
+              <i className="fab fa-discord mr-2" />Invite BotStory
             </a>
           </div>
 
@@ -57,7 +57,7 @@ Vote Astra</a>
               <div>
                 <div className="text-white">
                   <p className="text-xl font-semibold mt-5"><i className={`fa fa-cogs text-2xl text-amber-500`} /> Optimization</p>
-                  <p className="text-gray-500 line-clamp-4">With fast and customizable settings specific to your server, Astra gives you a musical pleasure to the fullest.</p>
+                  <p className="text-gray-500 line-clamp-4">With fast and customizable settings specific to your server, BotStory gives you a musical pleasure to the fullest.</p>
                 </div>
               </div>
               <div>
@@ -88,7 +88,7 @@ Vote Astra</a>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
                   <img src="https://cdn.discordapp.com/attachments/737348411568685066/983094813115170866/unknown.png"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
                   <p className="text-3xl text-white font-semibold">Best Your Bot</p>
-                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to throw the best parties with Astra, the best and most up-to-date bot?</p>
+                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to throw the best parties with BotStory, the best and most up-to-date bot?</p>
                 </div>
                 <img src="https://cdn.discordapp.com/attachments/737348411568685066/983094813115170866/unknown.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
