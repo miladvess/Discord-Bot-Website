@@ -11,7 +11,7 @@ export default function Privacy() {
         <div className="py-3"></div>
         <p>⊳ Every user can use the BotStory however they want, as long as they do not intend to harm.</p>
         <div className="py-3"></div>
-        <p>⊳ You cannot use certain commands at the same time while using Astra.</p>   
+        <p>⊳ You cannot use certain commands at the same time while using BotStory.</p>   
         <div className="py-3"></div>
         <p>⊳ BotStory does not save any data based on users.</p>
         <div className="py-3"></div>
